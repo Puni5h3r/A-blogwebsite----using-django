@@ -1,4 +1,7 @@
-```html
+<!DOCTYPE html>
+<html>
+    <body>
+
 <h2>A blog website using Django</h2>
 
 <pre>
@@ -17,5 +20,7 @@ Feel free to resuse my code and happy if I can contribute somehow.</h2>
         </div>
     </div>
 </pre>
-```
+</body>
+</html>
+
 
